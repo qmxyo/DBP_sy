@@ -40,7 +40,7 @@
 <body>
   <h1><a href="index.php"> 좋아하는 가수와 추천곡 </a></h1>
   <ol> <?= $list ?> </ol>
-  <a href="create.php">소개해주세요</a>
+  <a href="create.php">create</a>
   <?=$update_link?>
   <?=$delete_link?>
   <h2> <?= $article['title'] ?> </h2>
