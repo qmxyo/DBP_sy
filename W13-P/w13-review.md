@@ -39,7 +39,7 @@ JSP에서 별도 선언 없이 사용 가능
 이클립스에서 tomcat 서버를 설정해야하는데 계속 tomcat이 안떠서 한참 지웠다 깔았다 반복했다.. 한참 재설치해서 성공했다.
 
 # 참고할 만한 내용
-https://blog.naver.com/qpqpqpqp5/222113773497
+https://blog.naver.com/qpqpqpqp5/222113773497  
 https://blog.naver.com/lotu_us/222157657549
 
 
