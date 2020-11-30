@@ -44,5 +44,5 @@ https://blog.naver.com/lotu_us/222157657549
 
 # 회고
 :heavy_plus_sign: 이클립스에서 바로 html에 접속해 실행해볼 수 있어서 편하고 좋았다.  
-:heavy_minus_sign: 과제 제출 시간을 오바했다 다신 이러지 않도록 하자! 
+:heavy_minus_sign: 과제 제출 시간을 오바했다 다신 이러지 않도록 하자!  
 :exclamation: 기존 수업에 쓰던 이클립스를 삭제하고 Eclipse IDE for Enterprise Java Developers를 설치해 사용하였는데 톰캣 서버를 이클립스에서 설정하기 위해서였다.
