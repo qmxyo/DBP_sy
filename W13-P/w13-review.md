@@ -33,8 +33,7 @@ request, response, pageContext, session, application, config, out, page, excepti
 JSP에서 별도 선언 없이 사용 가능  
 
 # 문제가 발생하거나 고민한 내용 + 해결 과정
-이클립스를 실행하려 하니 Version 1.8.0_271 of the JVM is not suitable for this product. Version: 11 or greater is required. 라는 창이 뜨며 실행이 안 됐다.  
-아래 두 링크를 참고해 해결하였다.
+이클립스를 실행하려 하니 Version 1.8.0_271 of the JVM is not suitable for this product. Version: 11 or greater is required. 라는 창이 뜨며 실행이 안 됐다. 아래 두 링크를 참고해 해결하였다.
 
 이클립스에서 tomcat 서버를 설정해야하는데 계속 tomcat이 안떠서 한참 지웠다 깔았다 반복했다.. 한참 재설치해서 성공했다.
 
